@@ -1,0 +1,18 @@
+export const dataSource = [
+    { 'searchStr': 'BCG - Bacilo Calmette-Guerin ' },
+    { 'searchStr': 'Pentavalente ' },
+    { 'searchStr': 'Vacina Inativada Poliomielite (VIP)' },
+    { 'searchStr': 'Pneumocócica 10 Valente' },
+    { 'searchStr': 'Rotavírus' },
+    { 'searchStr': 'Meningocócica C' },
+    { 'searchStr': 'Febre Amarela' },
+    { 'searchStr': 'Tríplice Viral' },
+    { 'searchStr': 'DTP' },
+    { 'searchStr': 'Hepatite A' },
+    { 'searchStr': 'Tetra viral ou tríplice viral + varicela' },
+    { 'searchStr': 'Vacina Oral Poliomilite (VOP)' },
+    { 'searchStr': 'Varicela atenuada' },
+    { 'searchStr': 'HPV' },
+    { 'searchStr': 'Hepatite B' },
+    { 'searchStr': 'Dupla adulto (difteria e tétano)' },
+]
