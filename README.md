@@ -1,6 +1,6 @@
 # HackathonZeGotinha CAMPUS PARTY BRASILIA 2019
 
-Developed with React Native and exp
+Developed with React Native and expo
 
 Second place award
 
