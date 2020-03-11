@@ -1,5 +1,4 @@
-# HackathonZeGotinha
-Hackathon Ze Gotinha CAMPUS PARTY BRASILIA 2019
+# HackathonZeGotinha CAMPUS PARTY BRASILIA 2019
 
 Developed with React Native and exp
 
