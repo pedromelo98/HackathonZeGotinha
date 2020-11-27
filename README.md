@@ -4,4 +4,4 @@ Mobile application developed with React Native and Expo
 
 Second place award
 
-![alt text](https://drive.google.com/file/d/1Kd09sdQWSPF94bv2wX7IyIvg5aYea0Rl/view?usp=sharing)
+![Imagem](https://github.com/[pedromelo98]/[HackathonZeGotinha]/blob/[master]/campus-party-vacina.jpg?raw=true)
